@@ -1,4 +1,4 @@
-**EN SEPTEMBRE 2015, QUELS ONT ÉTÉ LES EFFETS DU NAVIGO TOUTES ZONES SUR LA GARE CDG1 ?**
+*EN SEPTEMBRE 2015, QUELS ONT ÉTÉ LES EFFETS DU NAVIGO TOUTES ZONES SUR LA GARE CDG1 ?*
 
 _Les deux gares de l’aéroport de Roissy Charles de Gaulle (CDG1 et CDG2) représentent la principale destination Billets pour Transilien mais également le point de vente le plus important pour les Paris-Visite. L’arrivée des forfaits toutes zones peut donc y créer de grands changements. Les équipes SNCF TRANSILIEN vous présentent les premiers effets du Navigo Toutes Zones sur la gare CDG1._
 
