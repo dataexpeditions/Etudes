@@ -1,6 +1,6 @@
 #EN SEPTEMBRE 2015, QUELS ONT ÉTÉ LES EFFETS DU NAVIGO TOUTES ZONES SUR LA GARE CDG1 ?
 
-_Les deux gares de l’aéroport de Roissy Charles de Gaulle (CDG1 et CDG2) représentent la principale destination Billets pour Transilien mais également le point de vente le plus important pour les Paris-Visite. L’arrivée des forfaits toutes zones peut donc y créer de grands changements. Les équipes SNCF TRANSILIEN vous présentent les premiers effets du Navigo Toutes Zones sur la gare CDG1._
+_Les deux gares de l’aéroport de Roissy Charles de Gaulle (CDG1 et CDG2) représentent la principale destination Billets pour Transilien. Les équipes SNCF TRANSILIEN vous présentent les premiers effets du Navigo Toutes Zones sur la gare CDG1._
 
  
 
@@ -8,7 +8,7 @@ _Les deux gares de l’aéroport de Roissy Charles de Gaulle (CDG1 et CDG2) repr
 
  
 
-CDG1 est une gare très spécifique du réseau SNCF en Ile de France. En 2014, alors que les validations magnétiques (billets tickets, Mobilis, Paris Visite, Tarif Jeune…) ne représentaient que 16% des validations du réseau, elles en constituaient pourtant 51% à CDG1. Cette situation s’explique assez aisément, CDG1 est avant tout une gare de transit pour clients occasionnels.
+CDG1 est une gare  spécifique du réseau SNCF en Ile de France. En 2014, alors que les validations magnétiques (billets tickets, Mobilis, Paris Visite, Tarif Jeune…) ne représentaient que 16% des validations du réseau, elles en constituaient pourtant 51% à CDG1. Cette situation s’explique assez aisément, CDG1 est avant tout une gare de transit pour clients occasionnels qui ne disposent pas d'abonnement.
 
 **Entre septembre 2014 et septembre 2015, les validations magnétiques de CDG1 ont chuté de 15%**, soit une baisse similaire à ce que l’on peut observer sur le reste du réseau. En revanche, et c’est là où cette gare se distingue, **les validations télébillétiques s’y sont faites plus nombreuses (+12%, soit 30 000 validations de plus)**.
 
@@ -16,11 +16,11 @@ CDG1 est une gare très spécifique du réseau SNCF en Ile de France. En 2014, a
 
 ##… QUI S’EST LAISSÉE SÉDUIRE PAR LES NOUVEAUX AVANTAGES DU NAVIGO SEMAINE
 
-**A l’inverse des autres gares Transiliennes dont les ventes en unités du Navigo Semaine ont chuté de 20% en septembre, CDG1 les a vu croître de 34%**. Ainsi, là où les voyageurs réguliers ont adopté le Navigo Toutes Zones à 70 euros par mois, les clients occasionnels de CDG1 ont découvert les avantages du forfait Navigo semaine, essentiellement sur cartes Navigo Découverte. Celui-ci vient, de fait, concurrencer les offres existantes.
+**A l’inverse des autres gares Transiliennes dont les ventes en unités du Navigo Semaine ont chuté, CDG1 les a vu croître. Ainsi, là où les voyageurs réguliers ont adopté le Navigo Toutes Zones à 70 euros par mois, les clients occasionnels de CDG1 ont découvert les avantages du forfait Navigo semaine, essentiellement sur cartes Navigo Découverte. Celui-ci vient, de fait, concurrencer les offres existantes.
 
 Le Navigo Semaine étant à peine plus cher qu’un billet aller-retour CDG1-Paris et le Paris-Visite zones 1-5 coûtant 23,50 euros pour 1 jour, il n’y a rien d’étonnant à ce que les validations de ce dernier aient chuté de 30%. Pour confirmer la tendance, les ventes de Paris-Visite ont d’ailleurs baissé dans la même proportion.
 
-##UNE BILLETTERIE QUI DIMINUE POURTANT MOINS QU’AILLEURS
+##UNE BILLETTERIE QUI DIMINUE POURTANT MOINS QU’AILLEURS## 
 
 En septembre 2015, les billets Origine-Destination représentent encore un peu moins des deux tiers du chiffre d’affaires de la gare CDG1. Comme nous avons pu le voir, les ventes de billets ont diminué mais dans une proportion moindre par rapport au reste du réseau. Cela s’explique sûrement par le nombre important de voyageurs très occasionnels, non Franciliens, qui n’ont pas connaissance des avantages du Navigo Toutes Zones.
 
