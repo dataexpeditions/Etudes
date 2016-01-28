@@ -20,7 +20,7 @@ CDG1 est une gare très spécifique du réseau SNCF en Ile de France. En 2014, a
 
 Le Navigo Semaine étant à peine plus cher qu’un billet aller-retour CDG1-Paris et le Paris-Visite zones 1-5 coûtant 23,50 euros pour 1 jour, il n’y a rien d’étonnant à ce que les validations de ce dernier aient chuté de 30%. Pour confirmer la tendance, les ventes de Paris-Visite ont d’ailleurs baissé dans la même proportion.
 
-##UNE BILLETTERIE QUI DIMINUE POURTANT MOINS QU’AILLEURS## 
+##UNE BILLETTERIE QUI DIMINUE POURTANT MOINS QU’AILLEURS
 
 En septembre 2015, les billets Origine-Destination représentent encore un peu moins des deux tiers du chiffre d’affaires de la gare CDG1. Comme nous avons pu le voir, les ventes de billets ont diminué mais dans une proportion moindre par rapport au reste du réseau. Cela s’explique sûrement par le nombre important de voyageurs très occasionnels, non Franciliens, qui n’ont pas connaissance des avantages du Navigo Toutes Zones.
 
