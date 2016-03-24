@@ -1,5 +1,3 @@
-![Image du logo](https://dataexpeditions.github.io/logo.png)
-
 #Réunir les hommes. Exploiter les données. Agir pour une meilleure connaissance des déplacements en Ile-de-France.
 
 
