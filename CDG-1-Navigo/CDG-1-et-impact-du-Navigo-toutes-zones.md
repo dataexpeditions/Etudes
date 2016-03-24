@@ -1,16 +1,16 @@
 LE POINT SUR… 
 # L’ÉVOLUTION DES MOBILITÉS EN GARE DE CDG1 AU COURS DU PREMIER MOIS DE MISE EN PLACE DU NAVIGO TOUTES ZONES
 
-Les deux gares de l’aéroport de Roissy Charles de Gaulle (CDG1 et CDG2) sont des gares très spécifiques au sein du réseau SNCF en Ile-de-France. traversées par une clientèle occasionnelle, elles représentent le point de vente le plus important pour les tickets Paris-Visite. L’entrée en vigueur, en septembre 2015, du _Navigo Toutes Zones_ ainsi que la campagne promotionnelle qui l’a accompagnée fut l’occasion d’observer de plus près l’évolution des comportements de mobilité des usagers de la gare CDG1 et d’en comprendre les facteurs de changements. 
+Les deux gares de l’aéroport de Roissy Charles de Gaulle (CDG1 et CDG2) sont des gares très spécifiques au sein du réseau SNCF en Ile-de-France. Particulièrement traversées par une clientèle occasionnelle, elles représentent le point de vente le plus important pour les tickets Paris-Visite. L’entrée en vigueur, en septembre 2015, du _Navigo Toutes Zones_ ainsi que la campagne promotionnelle qui l’a accompagnée fut l’occasion d’observer de plus près l’évolution des comportements de mobilité des usagers de la gare CDG1 et d’en comprendre les facteurs de changements. 
 
 ## UNE ANALYSE MENÉE AU PRISME DES DONNÉES DE VALIDATION
-SNCF Transilien dispose d’une multitude d’outils pour estimer le plus précisément possible les flux sur l’ensemble des gares du territoire francilien : enquêtes de terrain, traces GSM, comptages automatiques ou manuels, mais aussi capteurs innovants tels que les caméras thermiques ou tapis de comptage, etc. Mais l’ par SNCF Transilien repose aujourd’hui sur les données de validation, correspondant aux informations recueillies lorsqu’un voyageur valide son titre de transport. Cet acte de validation renseigne notamment sur le type de titre possédé, le tarif associé ainsi que l’horaire de passage. Contrairement à l’idée que l’on pourrait s’en faire, il est impossible de collecter des informations personnelles concernant les voyageurs munis, par exemple, de passe Navigo, les numéros de cartes étant anonymysés et leur identifiant modifié tous les  mois. 
+SNCF Transilien dispose d’une multitude d’outils pour estimer le plus précisément possible les flux sur l’ensemble des gares du territoire francilien : enquêtes de terrain, traces GSM, comptages automatiques ou manuels, mais aussi capteurs innovants tels que les caméras thermiques ou tapis de comptage, etc. Mais l’analyse menée ici par SNCF Transilien repose aujourd’hui sur les données de validation, correspondant aux informations recueillies lorsqu’un voyageur valide son titre de transport. Cet acte de validation renseigne notamment sur le type de titre possédé, le tarif associé ainsi que l’horaire de passage. Contrairement à l’idée que l’on pourrait s’en faire, il est impossible de collecter des informations personnelles concernant les voyageurs munis, par exemple, de passe Navigo, les numéros de cartes étant anonymysés et leur identifiant modifié tous les trois mois. 
 
 Deux catégories de titres de transport permettant de recueillir des données de validation, sont en usage sur le réseau Transilien : 
 
 - Les tickets (ex : T+, Origine-Destination, Mobilis, Paris-Visite, etc.), issus d’une technologie dite “magnétique”. 
 
-- Les titres “télébillétques” Navigo qui se déclinent en plusieurs types de forfaits liés à la durée de l’engagement (Mois, Semaine, Annuel, etc.) ou à la catégorie du voyageur (Imagine’R, Améthyste, Solidarité, etc.)
+- Les titres “télébillétiques” Navigo qui se déclinent en plusieurs types de forfaits liés à la durée de l’engagement (Mois, Semaine, Annuel, etc.) ou à la catégorie du voyageur (Imagine’R, Améthyste, Solidarité, etc.)
 
 
 ## UNE CLIENTÈLE OCCASIONNELLE QUI S’EST LAISSÉE SÉDUIRE PAR LES NOUVEAUX AVANTAGES DU NAVIGO SEMAINE
@@ -20,7 +20,7 @@ Le nombre de validations de cette catégorie de titres de transport a néanmoins
 
 ![Nombre de validations - Source : SNCF Transilien](art-img1.jpg)
 
-Ainsi, là où les voyageurs réguliers ont adopté le _Navigo Toutes Zones_ à 70 euros par mois, beaucoup de clients occasionnels de CDG1 ont découvert les avantages du forfait Navigo Semaine. Celui-ci étant dorénavant à peine plus cher qu’un seul _ticket aller-retour CDG1-Paris_, et le titre _Paris-Visite zones 1-5_ coûtant 23,50 euros pour 1 jour, le Navigo Semaine vient donc concurrencer les offres existantes. Cette tendance au report des voyageurs vers le forfait hebdomaire, essentiellement sur carte _Navigo Découverte_, se confirme d’ailleurs par une chute d’environ 30% des ventes et validations de tickets _Paris-Visite_ en gare de CDG1. 
+Ainsi, là où les voyageurs réguliers ont adopté le _Navigo Toutes Zones_ à 70 euros par mois, beaucoup de clients occasionnels de CDG1 ont découvert les avantages du forfait Navigo Semaine. Celui-ci étant dorénavant à peine plus cher qu’un seul _ticket aller-retour CDG1-Paris_, et le titre _Paris-Visite zones 1-5_ coûtant 23,50 euros pour 1 jour, le Navigo Semaine vient donc concurrencer les offres existantes. Cette tendance au report des voyageurs vers le forfait hebdomadaire, essentiellement sur carte _Navigo Découverte_, se confirme d’ailleurs par une chute d’environ 30% des ventes et validations de tickets _Paris-Visite_ en gare de CDG1. 
 
 Rappelons néanmoins que même si la part des titres télébillétiques est en augmentation dans cette gare, la vente de tickets y diminue pourtant moins vite qu’ailleurs sur le réseau Ile-de-France. En septembre 2015, les billets _Origine-Destination_ représentaient encore un peu moins des deux tiers du chiffre d’affaires de CDG1. Cela s’explique sûrement par le nombre important de voyageurs très occasionnels, non franciliens, qui n’avaient pas encore eu connaissance des avantages du _Navigo Toutes Zones_. 
 
@@ -47,7 +47,7 @@ Dans cette gare, les résultats du mois de septembre 2015 montrent que c’est l
 
 ![Nombre de clients ayant validé (en milliers) - Source : SNCF Transilien](art-image4.jpg) 
 
-On peut aisément imaginer que la récente attractivité du forfait fut pour beaucoup dans cette augmentation du nombre d’abonnés. Pour les voyageurs, l’investissement serait devenu plus intéressant même s’ils ne se rendent qu’occasionnellement dans cette gare. Quelques chiffres tendent à soutenir cette hypothèse : 
+On peut aisément imaginer que la récente attractivité du forfait a été pour beaucoup dans cette augmentation du nombre d’abonnés. Pour les voyageurs, l’investissement serait devenu plus intéressant même s’ils ne se rendent qu’occasionnellement dans cette gare. Quelques chiffres tendent à soutenir cette hypothèse : 
 
 - Au cours du mois de septembre 2014, les détenteurs de forfaits Navigo qui transitaient régulièrement par la gare CDG1 y avaient, en moyenne, validé 25 fois leur titre de transports.
 - En septembre 2015, on n’enregistrait plus que 20 validations par abonné.
