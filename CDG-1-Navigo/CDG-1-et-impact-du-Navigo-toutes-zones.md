@@ -35,7 +35,7 @@ Quelques pistes d’explication s’offrent à nous :
 
 - La mise en œuvre au 7 septembre 2015, au lieu du 1er septembre de la nouvelle tarification unique pour les forfaits hebdomadaires, aurait pu entraîner un report de certains habitués du _Navigo Semaine_ vers le _Navigo Mois_.
 
-![Nombre de validations (en milliers) - Source : SNCF Transilien](art-img3.jpg)
+![Nombre de validations |en milliers| - Source : SNCF Transilien](art-img3.jpg)
 
 ## ALORS… PLUS D’ABONNÉS OU PLUS DE MOBILITÉ EN GARE DE CDG1 ?
 
