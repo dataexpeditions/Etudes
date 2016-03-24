@@ -45,7 +45,7 @@ Dans cette gare, les résultats du mois de septembre 2015 montrent que c’est l
 - + 95% pour le Navigo Mois,
 - + 64% pour le Navigo Semaine.
 
-![Nombre de clients ayant validé - en milliers - Source : SNCF Transilien](art-image4.jpg) 
+![Nombre de clients ayant validé - en milliers - Source : SNCF Transilien](art-img4.jpg) 
 
 On peut aisément imaginer que la récente attractivité du forfait a été pour beaucoup dans cette augmentation du nombre d’abonnés. Pour les voyageurs, l’investissement serait devenu plus intéressant même s’ils ne se rendent qu’occasionnellement dans cette gare. Quelques chiffres tendent à soutenir cette hypothèse : 
 
