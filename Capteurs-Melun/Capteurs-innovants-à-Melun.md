@@ -8,7 +8,7 @@ Du 1er au 30 juin 2015, la gare de Melun a été équipée de deux solutions de 
 
 Le déploiement de capteurs innovants vient approfondir la compréhension des habitudes de déplacement des franciliens, en complément d’autres instruments de mesure des flux que sont, à titre d’exemple, les validations de titres de transport. Ces différents outils ne dispensent d’ailleurs pas tous le même type d’information. Là où les données de validation et celles issues des capteurs innovants permettent de mesurer l’affluence en gare en recensant tous les individus _entrants_ et _sortants_ aux accès, les opérations régulières de comptages manuels et les rames compteuses permettent d’estimer une charge moyenne des trains en enregistrant l’ensemble des usagers _montants_ et _descendants_des véhicules. L’indicateur observé dans l’analyse qui suit est le nombre d’_entrants_ et _sortants_ par tranche horaire de 15 minutes sur chacun des quatre accès de la gare. 
 
-![edede](art-img0.png)
+![](art-img0.png)
 
 ## PLACE GALLIENI, L’ACCÈS LE PLUS EMPRUNTÉ DE TOUS
 
