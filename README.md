@@ -19,4 +19,4 @@ Date(s) de l'article | Titre | Dossier
 ---|---------|-------------
 14 Mars, 2016 | [CDG 1 et impact du Navigo toutes zones](https://dataexpeditions.github.io/article1.html) | `CDG-1-Navigo`
 31 Mars 2016 | [Capteurs innovants à Melun](https://dataexpeditions.github.io/article2.html) | `Capteurs-Melun`
-12 Avril 2016 | [L’impact des attentats sur la mobilité des franciliens](https://dataexpeditions.github.io/article4.html) | `Impact attentats`
+12 Avril 2016 | [L’impact des attentats sur la mobilité des franciliens](https://dataexpeditions.github.io/article4.html) | `Impact-Attentats`
