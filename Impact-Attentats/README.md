@@ -44,6 +44,6 @@ En septembre et octobre 2015, la hausse du nombre de validations se faisait un p
 Ecart entre le nombre de validations SNCF par jour 2015 et l’équivalent jour 2014
 
 
-![Source : SIPS](images/art4/art4-img1.jpg)
+![Source : SIPS](art4-img1.jpg)
 
 - Note de lecture : Les jours 2015 sont comparés au jour équivalent 2014, en termes de positionnement dans la semaine. Par exemple, le lundi 7 septembre 2015 est comparé au lundi 8 septembre 2014. Les écarts du 10 et du 11 novembre sont donc des effets purement calendaires : le 11 novembre 2014 étant un mardi, l’effet pont a été davantage marqué en 2014 qu’en 2015, lorsque le 11 novembre était un mercredi.
