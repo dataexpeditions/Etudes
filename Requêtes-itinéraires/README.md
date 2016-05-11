@@ -38,6 +38,8 @@ En améliorant l’exploitation des requêtes d’itinéraires, les transporteur
 
 Sur le graphique ci-dessous, on voit que les pics de requêtes sont observés 2-3 heures avant les matchs du tournoi des 6 nations. L’anticipation est nettement plus précoce pour ce type de voyage puisque 15 à 20% des requêtes sont réalisées 3 jours avant le déplacement planifié vs 6.81% pour des trajets « standards ».
 
+![](img3.jpg)
+
 Des **volumes de requête inhabituels** en lien avec des **évènements atypiques** sont ici nettement identifiables
 
 
